@@ -1,0 +1,124 @@
+[2025-03-04 14:06:41,716: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 14:09:28,438: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 14:09:33,041: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 14:33:43,160: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 14:42:29,885: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:05:24,621: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:05:24,628: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:05:24,630: INFO: common: created directory at: artifacts]
+[2025-03-04 15:09:53,840: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:09:53,842: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:09:53,844: INFO: common: created directory at: artifacts]
+[2025-03-04 15:12:35,868: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:12:35,872: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:12:35,874: INFO: common: created directory at: artifacts]
+[2025-03-04 15:12:35,876: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-04 15:12:35,877: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/]
+[2025-03-04 15:13:51,211: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:13:51,215: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:13:51,217: INFO: common: created directory at: artifacts]
+[2025-03-04 15:13:51,220: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-04 15:13:51,223: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/]
+[2025-03-04 15:17:39,692: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:17:39,694: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:17:39,696: INFO: common: created directory at: artifacts]
+[2025-03-04 15:17:39,697: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-04 15:17:39,699: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/]
+[2025-03-04 15:20:42,173: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:20:42,176: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:20:42,180: INFO: common: created directory at: artifact]
+[2025-03-04 15:20:42,180: INFO: common: created directory at: artifact/data_ingestion]
+[2025-03-04 15:20:42,180: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifact/data_ingestion/]
+[2025-03-04 15:24:33,273: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:24:33,276: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:24:33,278: INFO: common: created directory at: artifact]
+[2025-03-04 15:24:33,280: INFO: common: created directory at: artifact/data_ingestion]
+[2025-03-04 15:24:33,281: INFO: 1623983178: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifact/data_ingestion/]
+[2025-03-04 15:27:44,849: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:27:44,850: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:27:44,851: INFO: common: created directory at: artifacts]
+[2025-03-04 15:27:44,853: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-04 15:27:44,854: INFO: 1623983178: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-04 15:28:04,112: INFO: 1623983178: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-04 15:39:06,485: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:39:06,487: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:39:06,489: INFO: common: created directory at: artifacts]
+[2025-03-04 15:39:06,490: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-04 15:39:06,494: INFO: 1623983178: Downloading data from https://drive.google.com/file/d/1pBJjd79DcNH09iD1PlGFjP15VJv6C0mC/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-03-04 15:45:00,085: INFO: 1623983178: Downloaded data from https://drive.google.com/file/d/1pBJjd79DcNH09iD1PlGFjP15VJv6C0mC/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-03-04 15:59:19,589: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-04 15:59:19,591: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 15:59:19,591: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 15:59:19,592: INFO: common: created directory at: artifacts]
+[2025-03-04 15:59:19,592: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-04 15:59:19,592: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1pBJjd79DcNH09iD1PlGFjP15VJv6C0mC/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-03-04 16:03:50,055: ERROR: main: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))]
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\urllib3\response.py", line 748, in _error_catcher
+    yield
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\urllib3\response.py", line 873, in _raw_read
+    data = self._fp_read(amt, read1=read1) if not fp_closed else b""
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\urllib3\response.py", line 856, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\http\client.py", line 459, in read
+    n = self.readinto(b)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\http\client.py", line 503, in readinto
+    n = self.fp.readinto(b)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\socket.py", line 681, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\ssl.py", line 1132, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\requests\models.py", line 820, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\urllib3\response.py", line 1060, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\urllib3\response.py", line 949, in read
+    data = self._raw_read(amt)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\urllib3\response.py", line 902, in _raw_read
+    self._fp.close()
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\contextlib.py", line 131, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\urllib3\response.py", line 775, in _error_catcher
+    raise ProtocolError(f"Connection broken: {e!r}", e) from e
+urllib3.exceptions.ProtocolError: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    obj.main()
+  File "c:\new folder\kidney_classification_3.0\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "c:\new folder\kidney_classification_3.0\src\cnnClassifier\components\data_ingestion.py", line 33, in download_file
+    raise e
+  File "c:\new folder\kidney_classification_3.0\src\cnnClassifier\components\data_ingestion.py", line 28, in download_file
+    gdown.download(prefix+file_id,zip_download_dir)
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\gdown\download.py", line 368, in download
+    for chunk in res.iter_content(chunk_size=CHUNK_SIZE):
+  File "C:\Users\karan\anaconda3\envs\kidney\lib\site-packages\requests\models.py", line 822, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2025-03-04 16:04:40,989: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-04 16:04:40,989: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 16:04:40,989: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 16:04:40,989: INFO: common: created directory at: artifacts]
+[2025-03-04 16:04:40,989: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-04 16:04:40,989: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1pBJjd79DcNH09iD1PlGFjP15VJv6C0mC/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-03-04 16:11:17,662: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1pBJjd79DcNH09iD1PlGFjP15VJv6C0mC/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-03-04 16:11:36,371: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-03-04 16:48:32,794: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-04 16:48:32,796: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-04 16:48:32,796: INFO: common: created directory at: artifacts]
+[2025-03-04 16:48:32,796: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-04 16:48:32,796: INFO: 1623983178: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-04 16:48:54,971: INFO: 1623983178: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-03-04 16:50:42,956: INFO: main: welcome to our custom log]
