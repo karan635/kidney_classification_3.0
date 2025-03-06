@@ -14,3 +14,10 @@
 9. Update the dvc.yaml
 10. app.py
 
+
+
+export MLFLOW_TRACKING_URI="https://dagshub.com/karan635/kidney-.mlflow"
+
+export MLFLOW_TRACKING_USERNAME=karan635
+
+export MLFLOW_TRACKING_PASSWORD=34be867858e2943cb91b2f264da3233dffec4c89

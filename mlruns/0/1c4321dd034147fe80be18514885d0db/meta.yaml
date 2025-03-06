@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/New%20folder/kidney_classification_3.0/mlruns/0/1c4321dd034147fe80be18514885d0db/artifacts
+end_time: 1741254714481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c4321dd034147fe80be18514885d0db
+run_name: stately-bug-254
+run_uuid: 1c4321dd034147fe80be18514885d0db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741254705361
+status: 4
+tags: []
+user_id: karan

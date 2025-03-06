@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/New%20folder/kidney_classification_3.0/mlruns/0/d46a95ddf0c34a75a2ad4f82583cecef/artifacts
+end_time: 1741255192721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d46a95ddf0c34a75a2ad4f82583cecef
+run_name: righteous-stork-341
+run_uuid: d46a95ddf0c34a75a2ad4f82583cecef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741255184583
+status: 3
+tags: []
+user_id: karan
