@@ -16,7 +16,7 @@
 
 
 
-export MLFLOW_TRACKING_URI="https://dagshub.com/karan635/kidney-.mlflow"
+export MLFLOW_TRACKING_URI="https://dagshub.com/karan635/Kidney_3.0.mlflow"
 
 export MLFLOW_TRACKING_USERNAME=karan635
 
